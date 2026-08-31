@@ -9,3 +9,18 @@
     background-color: #fde68a;
     color: #0f172a;
 }
+
+.card {
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
+
+.card .btn {
+    background-color: red;
+    color: #0f172a;
+    border: 2px solid#0f172a;
+    padding: 12px;
+    border-radius: 6px; /*Rundar kanterna på andra knappen*/
+}
